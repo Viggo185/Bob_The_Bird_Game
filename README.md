@@ -1,4 +1,4 @@
-Bob the Bird is a copy of Flappy Bird. It is a simple 2D game where the player controls a bird and tries to get through pipes to earn as many points as possible.
+Bob the Bird is a winter themed copy of Flappy Bird. It is a simple 2D game where the player controls a bird and tries to get through pipes to earn as many points as possible.
 
 Features
 
