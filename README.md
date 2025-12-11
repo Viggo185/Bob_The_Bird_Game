@@ -15,3 +15,7 @@ When the player launches the game, a start button is displayed. Pressing it swit
 
 * ### Endless Gameplay:
 Bob the Bird features endless gameplay—there is no final level. The game ends only when the bird collides with a pipe.
+
+
+https://github.com/user-attachments/assets/a0502227-036e-42f3-a40f-c7be025ae5e9
+
